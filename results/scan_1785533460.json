@@ -1,0 +1,9 @@
+{
+  "task_id": "scan_1785533460",
+  "status": "completed",
+  "output_file": "result_1785533522.png",
+  "error": null,
+  "processing_time": 45.2,
+  "gpu_used": "RTX5060",
+  "completed_at": "2026-07-31T21:32:02.591746"
+}
